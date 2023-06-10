@@ -8,10 +8,10 @@
 
 /*Reset*/
 :root {
-    --primary-text-color: #183b56;
-    --secondary-text-color: #577592;
-    --accent-color: #1bbdc8;
-    --accent-color-dark: #1395AC;
+    --primary-text-color: #594a4e;
+    --secondary-text-color: #9c8188;
+    --accent-color: #ffc6c7;
+    --accent-color-dark: #33272a;
     --padding-inline-section: 20px
 }
 
@@ -47,8 +47,8 @@ p{font-family:'Montserrat',sans-serif ;}
     position: fixed;
 justify-content: space-between;
 top: 0;
-  background: rgba(240, 211, 211, 0.5);
-  /* color: #f1f1f1; */
+  background: var(--accent-color);
+  
   width: 100%;
   padding: 20px;
 }
