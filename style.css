@@ -118,10 +118,18 @@ video {
     text-align: center;
     color: var(--primary-text-color);
 }
-.CTA2{
-    height: 80vh; 
-    justify-content: center;
+.Contact{
+    flex-direction: column;
+    height: 60vh; 
+    justify-content: end;
     background-color: var(--accent-color-dark);
     color: var(--secondary-text-color);
-    text-align: center;
+    text-align: end;
+    
 }
+.contact-textbox{
+    margin-bottom: 30px;
+}
+.contact-iconbox{
+    margin-bottom: 30px;
+} 

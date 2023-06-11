@@ -20,7 +20,14 @@ p{
 
 
 
-
-
-
+ 
+.contact-textbox{
+    margin: 20px;
+    
+}
+.contact-iconbox{
+    margin: 20px;
+    padding: 10px;
+    
+}
 }
