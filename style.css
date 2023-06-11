@@ -29,7 +29,11 @@ iframe{size: inherit;
     margin: 20px;}
 
 /* Utility classes */
-.flex {display: flex;}
+.container{
+    width: 100%;margin-inline: auto;
+    overflow: hidden;
+}
+.flex {display: flex; align-items: center;}
 .top-container {background-color: #1395ac54;}
 #logo{
     margin-left: 10px;
