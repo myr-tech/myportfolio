@@ -27,7 +27,12 @@ p {font-family: 'Montserrat', sans-serif;
     font-size: 2rem;}
 iframe{size: inherit;
     margin: 20px;}
-
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
 /* Utility classes */
 .container{
     width: 100%;margin-inline: auto;
@@ -76,6 +81,30 @@ video {
     padding: 20px;
     z-index: +1;
 }
+#menu {
+    position: fixed;
+    top: 0;
+    left: -100vw;
+    height: 100vh;
+    width: 100vw;
+   
+    background:var(--accent-color-dark);
+   z-index: +1;
+   
+   
+}
+.menu.active{
+    
+    left: 0;
+}
+#menu ul li {
+    color: var(--secondary-text-color);
+    font-size: 5rem;
+  
+
+
+}
+
 .aboutsection{
     position: relative;
     margin-top: 700px;
