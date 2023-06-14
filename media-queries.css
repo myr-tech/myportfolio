@@ -25,14 +25,14 @@ p{
     font-size: 1.5rem;
 line-height: 50px;}
 .servicesection{
-    height: 60vh;
+    height: 100vh;
 }
 .servicesection1{
     flex-direction: column-reverse;
 }
 .servicesection2{
     padding: 30px;
-    height: 60vh;
+    height: 100vh;
 }
 
 .leftdiv{
