@@ -9,6 +9,9 @@
 @media  screen and (max-width:476px){
 body{width: 100vw;}
 .top-container{width: 100vw;}
+.container{
+    flex-direction: column;
+}
 h1{font-size: 2.5rem;}
 h2{font-size: 2rem;}
 p{
@@ -22,7 +25,29 @@ p{
     font-size: 1.5rem;
 line-height: 50px;}
 
+.leftdiv{
+width: 50%;
+height: 50%;
 
+}
+.leftdiv h2{
+    font-size: 1rem;
+}
+.leftdiv img{
+    width: 100%;
+    height: 100%;
+}
+.rightdiv{
+    width: 50%;
+    height: 50%;
+}
+.rightdiv h2{
+    font-size: 1rem;
+}
+.rightdiv img{
+    width: 100%;
+    height: 100%;
+}
  
 .contact-textbox{
     margin: 20px;
