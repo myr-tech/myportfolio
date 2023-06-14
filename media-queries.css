@@ -30,6 +30,10 @@ line-height: 50px;}
 .servicesection1{
     flex-direction: column-reverse;
 }
+.servicesection2{
+    padding: 30px;
+    height: 60vh;
+}
 
 .leftdiv{
 width: 100%;
