@@ -26,8 +26,8 @@ p{
 line-height: 50px;}
 
 .leftdiv{
-width: 50%;
-height: 50%;
+width: 100%;
+height: 100%;
 
 }
 .leftdiv h2{
@@ -38,8 +38,8 @@ height: 50%;
     height: 100%;
 }
 .rightdiv{
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
 }
 .rightdiv h2{
     font-size: 1rem;
