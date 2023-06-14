@@ -48,6 +48,9 @@ li{
     border-radius: 0 5px 20px  0;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-size: 1rem;
+    font-family: 'Valky', sans-serif;
+    font-weight: bold;
 }
 #logo{
     margin-left: 10px;
@@ -110,7 +113,7 @@ video {
     text-decoration: none;
     }
 #togglebutton{
-    width: 50px;
+    width: 70px;
     height: 70px;
     border-radius: 50px;
     color: var(--secondary-text-color);
