@@ -20,6 +20,10 @@ h1{font-size: 5rem;}
 h2{font-size: 4rem;}
 h3{font-size: 3rem;}
 h4{font-size: 2rem;}
+a{
+    text-decoration: none;
+    color: var(--secondary-text-color);
+}
 h1,h2,h3,h4 {
     font-family: 'Valky', sans-serif,
      'Italiana', sans-serif;}
@@ -39,6 +43,10 @@ li{
 }
 .flex {display: flex; align-items: center;}
 .top-container {background-color: #1395ac54;}
+.top-container button{
+    padding: 5px;
+    border-radius: 0 5px 20px  0;
+}
 #logo{
     margin-left: 10px;
 }
@@ -95,9 +103,10 @@ video {
     left: 0;
     z-index: +10;}
 .navlinks ul li {
-   font-size: 5rem;}
+   font-size: 3rem;}
    .navlinks ul li a {
-    text-decoration: none;}
+    text-decoration: none;
+    }
 #togglebutton{
     width: 50px;
     height: 70px;
