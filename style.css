@@ -164,6 +164,7 @@ video {
     text-align: center;
 }
 .servicesection2{
+    padding: 50px;
     height: 100vh;
     text-align: center;
     color: var(--primary-text-color);
