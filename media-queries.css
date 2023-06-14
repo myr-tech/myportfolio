@@ -24,6 +24,12 @@ p{
 .navlinks ul li {
     font-size: 1.5rem;
 line-height: 50px;}
+.servicesection{
+    height: 60vh;
+}
+.servicesection1{
+    flex-direction: column-reverse;
+}
 
 .leftdiv{
 width: 100%;
