@@ -77,7 +77,9 @@ height: 100%;
     flex-direction: column-reverse;
     width: 100%;
 }
-
+.servicesection2 .rightdiv img{
+    width: 100%;
+}
 .CTA1 button{
     width: 80%;
     
