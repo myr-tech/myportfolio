@@ -157,11 +157,24 @@ li{
     color: var(--secondary-text-color);
     text-align: center;
 }
+.CTA1 button{
+    padding: 20px;
+    border-radius: 50px;
+    width: 20%;
+    cursor: pointer;
+    /* border: transparent; */
+}
 .My-projects{
     height: 90vh;
     justify-content: center;
     text-align: center;
     color: var(--primary-text-color);
+}
+.projectdiv{
+    width: 30%;
+    
+    margin: 20px;
+    
 }
 .Contact{
     flex-direction: column;
