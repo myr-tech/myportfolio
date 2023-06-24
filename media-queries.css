@@ -73,8 +73,18 @@ height: 100%;
     padding: 10px;
     
 }
+.servicesection2{
+    flex-direction: column-reverse;
+    width: 100%;
+}
+
+.CTA1 button{
+    width: 80%;
+    
+}
 .projectdiv{
     width: 100%;
     
 }
+
 }
