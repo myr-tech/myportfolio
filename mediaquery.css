@@ -1,5 +1,6 @@
 /* Navbar */
 /* if screen size equal or more than 992px Then this Css will apply */
+
 @media(min-width:992px){
     .navbar{
         min-height: 100vh;
@@ -16,13 +17,6 @@
     padding-left: var(--sidebar-width);
 }
 /* end Content wrapper */
-
-
-
-
-
-
-
 
 
 }
