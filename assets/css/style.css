@@ -97,7 +97,7 @@ img {
     .navbar {
         min-height: 100vh;
         width: var(--sidbar-width);
-        background: linear-gradient(rgba(85, 66, 61, 0.694), rgba(85, 66, 61, 0.647)), url(../images/myr4-2.jpg);
+        background: linear-gradient(rgba(85, 66, 61, 0.694), rgba(85, 66, 61, 0.647)), url(../images/golden\ gradient.jpg);
         background-size: cover;
         background-position: center;
     }
